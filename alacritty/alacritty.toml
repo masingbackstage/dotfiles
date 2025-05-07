@@ -30,7 +30,7 @@ decorations_theme_variant = "Light" # "Dark"
 
 [font]
 
-normal.family = "JetBrainsMono Nerd Font"
+normal.family = "FiraCode Nerd Font"
 bold.family = "JetBrainsMono Nerd Font"
 italic.family = "JetBrainsMono Nerd Font"
 bold_italic.family = "JetBrainsMono Nerd Font"
