@@ -17,11 +17,13 @@
 # Below is my initial set-up. The TOML homepage (https://toml.io/en/v1.0.0) was very helpful in figuring this out. 
 # I put the file alacritty.toml in $HOME/.config/alacritty. However it can be kept anywhere among the places mentioned in
 # https://github.com/alacritty/alacritty/tree/master#configuration
-
+general.import = [
+"~/.config/alacritty/catppuccin-macchiato.toml"
+]
 [window]
 
-opacity = 0.7
-blur = true
+opacity = 0.5
+blur = false
 padding.x = 10
 padding.y = 10
 

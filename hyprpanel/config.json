@@ -224,6 +224,7 @@
     "*": {
       "left": [
         "dashboard",
+        "updates",
         "workspaces",
         "windowtitle",
         "cava"
@@ -232,7 +233,6 @@
         "media"
       ],
       "right": [
-        "updates",
         "cpu",
         "ram",
         "storage",
