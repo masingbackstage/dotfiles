@@ -1,0 +1,61 @@
+{
+  "appearance": {
+    "transparency": 0
+  },
+  "wallpaper": {
+    "scheme": "scheme-tonal-spot",
+    "path": "file:///home/masingneckstage/Pictures/Wallpapers/pixel-galaxy.png"
+  },
+  "bar": {
+    "showSeparators": true,
+    "trayAlwaysExpanded": false,
+    "elements": [
+      {
+        "id": "workspaces",
+        "visible": true
+      },
+      {
+        "id": "title",
+        "visible": true
+      },
+      {
+        "id": "tray",
+        "visible": true
+      },
+      {
+        "id": "clock",
+        "visible": true
+      },
+      {
+        "id": "audio",
+        "visible": true
+      },
+      {
+        "id": "brightness",
+        "visible": true
+      },
+      {
+        "id": "battery",
+        "visible": true
+      },
+      {
+        "id": "network",
+        "visible": true
+      },
+      {
+        "id": "bluetooth",
+        "visible": true
+      },
+      {
+        "id": "separator",
+        "visible": true
+      },
+      {
+        "id": "power",
+        "visible": true
+      }
+    ],
+    "side": "left",
+    "visibility": "always"
+  }
+}

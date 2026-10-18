@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Otwórz terminal tutaj</name>
+	<submenu></submenu>
+	<unique-id>1792007189194859-1</unique-id>
+	<command>ghostty --working-directory=%f</command>
+	<description>Otwiera Ghostty w tym katalogu</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>com.visualstudio.code</icon>
+	<name>Otwórz w VS Code</name>
+	<submenu></submenu>
+	<unique-id>1792007189194859-2</unique-id>
+	<command>code %F</command>
+	<description>Otwiera zaznaczone pliki lub katalog w VS Code</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+	<text-files/>
+	<other-files/>
+</action>
+</actions>

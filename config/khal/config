@@ -1,0 +1,12 @@
+[calendars]
+[[icloud]]
+path = ~/.local/share/vdirsyncer/icloud/*
+type = discover
+
+[locale]
+dateformat = %Y-%m-%d
+timeformat = %H:%M
+datetimeformat = %Y-%m-%d %H:%M
+longdateformat = %Y-%m-%d
+longdatetimeformat = %Y-%m-%d %H:%M
+firstweekday = 0
